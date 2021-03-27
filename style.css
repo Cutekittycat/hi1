@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: fuchsia
+}
+
+h1 {
+    color: cyan;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+img {
+    align-content: center;
+    width: 200px;
+    height: 200px;
+}
